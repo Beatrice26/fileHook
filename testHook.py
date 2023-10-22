@@ -1,1 +1,1 @@
-print("HELLO HOOK kh1askjak2")
+print("HELLO HOOK khkj1askjak2")
